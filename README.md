@@ -68,7 +68,9 @@ Improved results after text processing
 ### Prerequisites
 
 Python 3.8+
+
 VS Code with Python extension
+
 Jupyter Notebook (optional)
 
 ### Installation
