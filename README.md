@@ -21,14 +21,17 @@ The [Yelp Review Dataset](https://www.kaggle.com/datasets/yelp-dataset/yelp-data
 
 ### Review Length Distribution
 ![BoxPlot](BoxPlot.png)
+
 *Distribution of text length across different star ratings*
 
 ### Rating Distribution
 ![CountPlot](CountPlot.png)
+
 *Count of reviews per star rating*
 
 ### Feature Correlations
 ![HeatMap](HeatMap.png)
+
 *Correlation matrix between different features*
 
 ### Text Length vs Rating
@@ -48,11 +51,13 @@ The [Yelp Review Dataset](https://www.kaggle.com/datasets/yelp-dataset/yelp-data
 
 ### 2️⃣ Model Performance
 Without Text Processing
-(C-R&C-M.png)
+<img width="458" height="218" alt="C-R   C-M" src="https://github.com/user-attachments/assets/b7138cd5-1b1d-4241-9cb9-f78f367b71fd" />
+
 Confusion matrix and classification report
 
 With Text Processing
-(C-R&C-MusingTextProcessing.png)
+<img width="447" height="171" alt="C-R   C-M using Text Processing" src="https://github.com/user-attachments/assets/a3a21efe-b6dc-4449-8af9-15e4124e2549" />
+
 Improved results after text processing
 
 ## #🚀 Getting Started
