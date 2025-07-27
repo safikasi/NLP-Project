@@ -64,7 +64,7 @@ Confusion matrix and classification report
 
 Improved results after text processing
 
-## #🚀 Getting Started
+## 🚀 Getting Started
 ### Prerequisites
 
 Python 3.8+
